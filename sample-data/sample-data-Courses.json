@@ -1,0 +1,16 @@
+[
+    {
+        "course_id": 101,
+        "course_name": "HS",
+        "course_description": "History"
+    },
+    {
+        "course_id": 102,
+        "course_name": "CS",
+        "course_description": "Computer Science"
+    },
+    {
+        "course_id": 103,
+        "course_name": "Finance"
+    }
+]
